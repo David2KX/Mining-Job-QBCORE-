@@ -12,6 +12,7 @@
 - Install all dependencies
 - Drag and drop resource in your resources list 
 - Make sure script is loaded after all dependencies
+- [Image] (https://items.bit-code.dev/)
 
 - A new Item need to be added with it's image :
 ```lua
