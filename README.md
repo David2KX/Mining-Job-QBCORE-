@@ -13,6 +13,7 @@
 - Drag and drop resource in your resources list 
 - Make sure script is loaded after all dependencies
 - [Image] (https://items.bit-code.dev/)
+- Change the coordinates as you wish. The script was made for the Las Venturas map.
 
 - A new Item need to be added with it's image :
 ```lua
